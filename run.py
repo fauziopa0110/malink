@@ -392,10 +392,10 @@ def generate(text):
 					results.append("sayang")
 					results.append("rahasia")
 					results.append("bismillah")
-                    results.append("123456")
                     results.append("anjing")
                     results.append("bangsat")
                     results.append("qwerty")
+                    results.append("123456")
 	return results
 def methode(qq):
   global ok,cp
